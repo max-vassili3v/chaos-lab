@@ -1,0 +1,23 @@
+﻿  main.cpp
+C:\Users\vassi\source\repos\ChaosLab\ChaosLab\main.cpp(26,33): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+C:\Users\vassi\source\repos\ChaosLab\ChaosLab\main.cpp(28,22): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\vassi\source\repos\ChaosLab\ChaosLab\main.cpp(29,26): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\vassi\source\repos\ChaosLab\ChaosLab\main.cpp(37,23): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\vassi\source\repos\ChaosLab\ChaosLab\main.cpp(39,26): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\vassi\source\repos\ChaosLab\ChaosLab\main.cpp(96,41): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\vassi\source\repos\ChaosLab\ChaosLab\main.cpp(135,52): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+C:\Users\vassi\source\repos\ChaosLab\ChaosLab\main.cpp(139,57): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+C:\Users\vassi\source\repos\ChaosLab\ChaosLab\main.cpp(143,59): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+C:\Users\vassi\source\repos\ChaosLab\ChaosLab\main.cpp(147,59): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+C:\Users\vassi\source\repos\ChaosLab\ChaosLab\main.cpp(258,39): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+C:\Users\vassi\source\repos\ChaosLab\ChaosLab\main.cpp(271,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\vassi\source\repos\ChaosLab\ChaosLab\main.cpp(281,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\vassi\source\repos\ChaosLab\ChaosLab\main.cpp(293,170): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\vassi\source\repos\ChaosLab\ChaosLab\main.cpp(297,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\vassi\source\repos\ChaosLab\ChaosLab\main.cpp(355,98): warning C4244: 'argument': conversion from 'double' to 'const btScalar', possible loss of data
+C:\Users\vassi\source\repos\ChaosLab\ChaosLab\main.cpp(355,56): warning C4244: 'argument': conversion from 'double' to 'const btScalar', possible loss of data
+C:\Users\vassi\source\repos\ChaosLab\ChaosLab\main.cpp(357,158): warning C4244: 'argument': conversion from 'double' to 'const btScalar', possible loss of data
+C:\Users\vassi\source\repos\ChaosLab\ChaosLab\main.cpp(357,125): warning C4244: 'argument': conversion from 'double' to 'const btScalar', possible loss of data
+C:\Users\vassi\source\repos\ChaosLab\ChaosLab\main.cpp(360,158): warning C4244: 'argument': conversion from 'double' to 'const btScalar', possible loss of data
+C:\Users\vassi\source\repos\ChaosLab\ChaosLab\main.cpp(360,125): warning C4244: 'argument': conversion from 'double' to 'const btScalar', possible loss of data
+  ChaosLab.vcxproj -> C:\Users\vassi\source\repos\ChaosLab\Debug\ChaosLab.exe
